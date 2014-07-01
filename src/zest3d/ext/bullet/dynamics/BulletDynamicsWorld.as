@@ -17,7 +17,7 @@ package zest3d.ext.bullet.dynamics
 	import AWPC_Run.removeVehicleInC;
 	import com.adobe.flascc.Console;
 	import flash.utils.Dictionary;
-	import io.plugin.math.algebra.AVector;
+	import plugin.math.algebra.AVector;
 	import zest3d.ext.bullet.collision.dispatch.BulletCollisionObject;
 	import zest3d.ext.bullet.collision.dispatch.BulletCollisionWorld;
 	import zest3d.ext.bullet.dynamics.character.BulletKinematicCharacterController;

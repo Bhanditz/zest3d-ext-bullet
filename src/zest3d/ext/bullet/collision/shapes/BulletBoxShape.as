@@ -8,7 +8,7 @@ package zest3d.ext.bullet.collision.shapes
 	{
 		import AWPC_Run.createBoxShapeInC;
 		import AWPC_Run.CModule;
-		import io.plugin.math.algebra.AVector;
+		import plugin.math.algebra.AVector;
 		import zest3d.ext.bullet.math.BulletVector3;
 		
 		private var _dimensions:AVector;

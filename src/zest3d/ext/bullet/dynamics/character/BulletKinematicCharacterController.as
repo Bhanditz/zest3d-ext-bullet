@@ -3,7 +3,7 @@ package zest3d.ext.bullet.dynamics.character
 	import AWPC_Run.CModule;
 	import AWPC_Run.createCharacterInC;
 	import AWPC_Run.disposeCharacterInC;
-	import io.plugin.math.algebra.AVector;
+	import plugin.math.algebra.AVector;
 	import zest3d.ext.bullet.BulletBase;
 	import zest3d.ext.bullet.collision.dispatch.BulletGhostObject;
 	import zest3d.ext.bullet.math.BulletVector3;

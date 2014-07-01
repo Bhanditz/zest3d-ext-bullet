@@ -9,7 +9,7 @@ package zest3d.ext.bullet.collision.shapes
 		
 		import AWPC_Run.CModule;
 		import AWPC_Run.createCylinderShapeInC;
-		import io.plugin.math.algebra.AVector;
+		import plugin.math.algebra.AVector;
 		import zest3d.ext.bullet.math.BulletVector3;
 		
 		private var _radius:Number;

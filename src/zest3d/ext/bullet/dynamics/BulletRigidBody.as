@@ -3,8 +3,8 @@ package zest3d.ext.bullet.dynamics
 	import AWPC_Run.CModule;
 	import AWPC_Run.createBodyInC;
 	import AWPC_Run.setBodyMassInC;
-	import io.plugin.math.algebra.AVector;
-	import io.plugin.math.algebra.HMatrix;
+	import plugin.math.algebra.AVector;
+	import plugin.math.algebra.HMatrix;
 	import zest3d.ext.bullet.collision.dispatch.BulletCollisionObject;
 	import zest3d.ext.bullet.collision.shapes.BulletCollisionShape;
 	import zest3d.ext.bullet.math.BulletMath;

@@ -8,9 +8,9 @@ package zest3d.ext.bullet.collision.dispatch
 	import flash.events.Event;
 	import flash.events.EventDispatcher;
 	import flash.events.IEventDispatcher;
-	import io.plugin.math.algebra.APoint;
-	import io.plugin.math.algebra.AVector;
-	import io.plugin.math.algebra.HMatrix;
+	import plugin.math.algebra.APoint;
+	import plugin.math.algebra.AVector;
+	import plugin.math.algebra.HMatrix;
 	import zest3d.ext.bullet.BulletBase;
 	import zest3d.ext.bullet.collision.shapes.BulletCollisionShape;
 	import zest3d.ext.bullet.events.BulletEvent;

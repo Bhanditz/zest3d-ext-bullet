@@ -2,7 +2,7 @@ package zest3d.ext.bullet.collision.shapes
 {
 	import AWPC_Run.CModule;
 	import AWPC_Run.createStaticPlaneShapeInC;
-	import io.plugin.math.algebra.AVector;
+	import plugin.math.algebra.AVector;
 	import zest3d.ext.bullet.math.BulletVector3;
 	/**
 	 * ...

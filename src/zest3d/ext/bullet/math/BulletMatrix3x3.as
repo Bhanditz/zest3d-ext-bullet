@@ -1,8 +1,8 @@
 package zest3d.ext.bullet.math 
 {
 	import AWPC_Run.matrix3x3;
-	import io.plugin.math.algebra.AVector;
-	import io.plugin.math.algebra.HMatrix;
+	import plugin.math.algebra.AVector;
+	import plugin.math.algebra.HMatrix;
 	import zest3d.ext.bullet.BulletBase;
 	
 	/**

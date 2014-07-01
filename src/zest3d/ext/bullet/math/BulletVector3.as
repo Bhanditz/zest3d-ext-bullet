@@ -2,7 +2,7 @@ package zest3d.ext.bullet.math
 {
 	import AWPC_Run.CModule;
 	import AWPC_Run.vector3;
-	import io.plugin.math.algebra.AVector;
+	import plugin.math.algebra.AVector;
 	import zest3d.ext.bullet.BulletBase;
 	
 	/**

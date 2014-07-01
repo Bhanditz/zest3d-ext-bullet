@@ -1,7 +1,7 @@
 package zest3d.ext.bullet.collision.dispatch 
 {
 	import AWPC_Run.CModule;
-	import io.plugin.math.algebra.AVector;
+	import plugin.math.algebra.AVector;
 	import zest3d.ext.bullet.BulletBase;
 	import zest3d.ext.bullet.math.BulletVector3;
 	

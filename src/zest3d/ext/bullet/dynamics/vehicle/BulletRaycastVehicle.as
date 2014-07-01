@@ -4,7 +4,7 @@ package zest3d.ext.bullet.dynamics.vehicle
 	import AWPC_Run.CModule;
 	import AWPC_Run.createVehicleInC;
 	import AWPC_Run.disposeVehicleInC;
-	import io.plugin.math.algebra.AVector;
+	import plugin.math.algebra.AVector;
 	import zest3d.ext.bullet.BulletBase;
 	import zest3d.ext.bullet.dynamics.BulletRigidBody;
 	import zest3d.ext.bullet.math.BulletVector3;

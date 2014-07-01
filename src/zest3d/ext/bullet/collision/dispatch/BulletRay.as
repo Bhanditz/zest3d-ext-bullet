@@ -1,6 +1,6 @@
 package zest3d.ext.bullet.collision.dispatch 
 {
-	import io.plugin.math.algebra.AVector;
+	import plugin.math.algebra.AVector;
 	import zest3d.ext.bullet.BulletBase;
 	
 	/**
